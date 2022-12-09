@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 PyTorch implementation of One Shot Affordance Detection, completed as a part of the semester
 long project for the course Advanced Machine Learning (CS5824/ECE5424) at Virginia Tech (Fall-2022).
 
-## π We have conducted our study by extending the work done in the following papers <a name="1"></a>
+## We have conducted our study by extending the work done in the following papers <a name="1"></a>
 * One-Shot Affordance Detection (IJCAI2021) ([link](https://arxiv.org/abs/2106.14747))
 > Authors:
 > Hongchen Luo, Wei Zhai, Jing Zhang, Yang Cao, Dacheng Tao
@@ -20,7 +20,7 @@ long project for the course Advanced Machine Learning (CS5824/ECE5424) at Virgin
 > Authors:
 > Wei Zhai*, Hongchen Luo*, Jing Zhang, Yang Cao, Dacheng Tao
 
-## π Requirements <a name="5"></a> 
+## Requirements <a name="5"></a> 
   - python 3.7 
   - pytorch 1.1.0
   - opencv
@@ -56,11 +56,11 @@ Then go to the code folder and execute the test_metrics_3.py script:
 ```bash  
 python test_metrics_3.py
 ```
-## π We have referred to the following public github repositories for reference <a name="1"></a>
+## We have referred to the following public github repositories for reference <a name="1"></a>
 * One-Shot Affordance Detection (IJCAI2021) ([link](https://github.com/lhc1224/OSAD_Net/tree/def9f6f67e4e3ba2c864a4fcd775e3e80a32f4f8#1))
 * One-Shot Affordance Detection Evaluation ([link](https://github.com/lhc1224/OSAD_Net/tree/main/PyMetrics))
 
-## βοΈ Contributors <a name="9"></a> 
+## Contributors <a name="9"></a> 
 * Aruj Nayak[aruj@vt.edu](aruj@vt.edu).
 * Trisha Bora[trishab@vt.edu](trishab@vt.edu).
 * Sandeep Chinnareddy[sandeepc98@vt.edu](sandeepc98@vt.edu).
