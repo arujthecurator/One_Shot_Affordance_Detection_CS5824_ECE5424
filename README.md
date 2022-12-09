@@ -61,11 +61,11 @@ python test_metrics_3.py
 * One-Shot Affordance Detection Evaluation ([link](https://github.com/lhc1224/OSAD_Net/tree/main/PyMetrics))
 
 ## Contributors <a name="9"></a> 
-* Aruj Nayak[aruj@vt.edu](aruj@vt.edu).
-* Trisha Bora[trishab@vt.edu](trishab@vt.edu).
-* Sandeep Chinnareddy[sandeepc98@vt.edu](sandeepc98@vt.edu).
-* Akhilesh Marathe[akhimarathe@vt.edu](akhimarathe@vt.edu).
-* Prayati Dutta[dprayati@vt.edu](dprayati@vt.edu).
+* Aruj Nayak [aruj@vt.edu](aruj@vt.edu).
+* Trisha Bora [trishab@vt.edu](trishab@vt.edu).
+* Sandeep Chinnareddy [sandeepc98@vt.edu](sandeepc98@vt.edu).
+* Akhilesh Marathe [akhimarathe@vt.edu](akhimarathe@vt.edu).
+* Prayati Dutta [dprayati@vt.edu](dprayati@vt.edu).
 
 
 
