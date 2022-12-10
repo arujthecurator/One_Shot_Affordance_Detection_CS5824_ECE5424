@@ -34,7 +34,7 @@ long project for the course Advanced Machine Learning (CS5824/ECE5424) at Virgin
 ### Train <a name="61"></a> 
 You have to download the pretrained resnet50 model from [ [Google Drive](https://drive.google.com/file/d/16OYi8kAxHosfCo8E4gmFIhwemW1FaCEB/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1HbsvNctWd6XLXFcbIoq1ZQ) (xjk5) ], 
 then move it to the newly created `models` folder. Create `save_models` folder in the OSAD 
-directory before training the model. Remeber that in the OSAD directory os_ad_1.py, os_ad_2.py, and os_ad_3.py are three different models trained by us. Whichever model you want to train, just rename that model as os_ad.py.
+directory before training the model. Remember that in the OSAD directory os_ad_1.py, os_ad_2.py, and os_ad_3.py are three different models trained by us. Whichever model you want to train, just rename that model as os_ad.py.
 To train the models, execute run_os_ad.py script using the following command:
 ```bash  
 python run_os_ad.py   
